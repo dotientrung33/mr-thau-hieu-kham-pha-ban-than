@@ -49,7 +49,7 @@ export function HeroSection() {
           <figure className="relative mx-auto max-w-[500px] overflow-hidden rounded-2xl border border-brand-border bg-white shadow-soft">
             <img
               src="/images/mr-thau-hieu/hero-trung.jpg"
-              alt="Mr. Thấu Hiểu trong hoạt động chia sẻ cùng khách mời"
+              alt="Mr. Thấu Hiểu"
             className="h-auto w-full object-cover"
             />
             <figcaption className="absolute bottom-0 left-0 right-0 bg-brand-teal/92 p-5 text-white backdrop-blur">
