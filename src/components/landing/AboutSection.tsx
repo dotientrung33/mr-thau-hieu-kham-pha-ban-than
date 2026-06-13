@@ -11,7 +11,7 @@ export function AboutSection() {
       <Container className="grid items-center gap-10 lg:grid-cols-[0.92fr_1.08fr]">
         <figure className="overflow-hidden rounded-2xl border border-brand-border bg-white shadow-soft">
           <img
-            src="/images/mr-thau-hieu/suceess.jpeg"
+            src="/images/mr-thau-hieu/about-mrthauhieu.jpg"
             alt="Đỗ Tiến Trung trong hoạt động Maxwell Leadership"
             className="aspect-[4/3] w-full object-cover lg:aspect-[4/5]"
           />
