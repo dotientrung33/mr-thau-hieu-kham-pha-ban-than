@@ -48,7 +48,7 @@ export function HeroSection() {
           <div className="absolute -right-8 -top-8 h-44 w-44 rounded-full bg-brand-gold/15 blur-3xl" />
           <figure className="relative mx-auto max-w-[500px] overflow-hidden rounded-2xl border border-brand-border bg-white shadow-soft">
             <img
-              src="/images/mr-thau-hieu/hero-trung.jpg"
+             src="/images/mr-thau-hieu/hero-trung.jpg"
               alt="Mr. Thấu Hiểu"
             className="h-auto w-full object-cover"
             />
