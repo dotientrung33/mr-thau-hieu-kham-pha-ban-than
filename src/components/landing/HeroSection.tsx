@@ -54,7 +54,7 @@ export function HeroSection() {
             />
             <figcaption className="absolute bottom-0 left-0 right-0 bg-brand-teal/92 p-5 text-white backdrop-blur">
               <p className="text-sm font-semibold text-brand-gold">Mr. Thấu hiểu</p>
-              <p className="mt-1 text-base font-semibold">Chuyên gia thấu hiểu con người</p>
+              <p className="mt-1 text-base font-semibold">Chuyên gia Thấu hiểu & Kết nối Mối quan hệ</p>
             </figcaption>
           </figure>
         </div>
